@@ -1,0 +1,58 @@
+{
+  "id": "2273669",
+  "name": "内蒙古油气",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8241827",
+      "name": "运单分配",
+      "font_class": "yundanfenpei",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "10194320",
+      "name": "分配",
+      "font_class": "fenpei",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "12163475",
+      "name": "菜单管理",
+      "font_class": "caidanguanli",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "2488126",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1181053",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4933416",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "9626949",
+      "name": "添加文件",
+      "font_class": "tianjiawenjian",
+      "unicode": "e880",
+      "unicode_decimal": 59520
+    }
+  ]
+}

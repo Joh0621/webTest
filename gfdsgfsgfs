@@ -1,0 +1,365 @@
+[33mcommit 5e3b44b8151d617f21e2a2d58de727dfb51be802[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 22 14:11:39 2021 +0800
+
+    修改查询问题
+
+[33mcommit b1ab7652e643a33f427858670f3ab91fb89c78b4[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 22 09:09:58 2021 +0800
+
+    菜单修改
+
+[33mcommit a84e4bd67f96b3989e5adfbbd9e71d897da4d617[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 21 18:50:28 2021 +0800
+
+    菜单修改
+
+[33mcommit d137eac170a9dda55dd2d266d219225da567be22[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 21 17:37:06 2021 +0800
+
+    新增气田按年填报、地方政府储气填报页面
+
+[33mcommit 4652963c7c5a835499773310f0f70ea8349c0b95[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 21 15:38:09 2021 +0800
+
+    新增气田按年填报、地方政府储气填报页面
+
+[33mcommit cd4408077dacff839e89a5e1bf35764eb9cb744a[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 21 14:29:02 2021 +0800
+
+    修改组织机构查询下拉框问题
+
+[33mcommit 0011fa2b4dab5ff2f1548d009186e27a56581772[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 21 10:03:25 2021 +0800
+
+    修改组织机构查询下拉框问题
+
+[33mcommit 5383c5d030263f1f8f4a6e476976db1b994e8cb6[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Jan 20 17:24:37 2021 +0800
+
+    增加重置密码功能
+
+[33mcommit f04eae7bb6480a6049f1eb2f59ed75fcd7ef2bf4[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 19 14:22:37 2021 +0800
+
+    权限bug修改
+
+[33mcommit 8e1a7ffc4c36b02cb4fb372dc15c0eb336091f80[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 19 14:21:05 2021 +0800
+
+    权限bug修改
+
+[33mcommit 7051e65ca44b1fe58f18e2fd959e222f4f75b661[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 18 17:31:37 2021 +0800
+
+    权限bug修改
+
+[33mcommit 70218aeb5504007479562653b542d2415cf6a5a7[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 18 15:55:50 2021 +0800
+
+    权限bug修改
+
+[33mcommit 3e5d9491a02e96fb5bcdc3562fc6974051c5301b[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 18 15:10:07 2021 +0800
+
+    权限bug修改
+
+[33mcommit 31f20fc00c1c5488bb6c743da33c91e788e0c8e3[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 18 10:31:42 2021 +0800
+
+    新增油井月度产量信息填报、气井月度产量信息填报页面
+
+[33mcommit 433dc3afa4ac5dc4be684c943e0d3e667833eb6d[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 15 17:38:35 2021 +0800
+
+    新增油井月度产量信息填报、气井月度产量信息填报页面
+
+[33mcommit ad994f462f4775abab15a982f4d161ec89e0bf18[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 15 16:12:46 2021 +0800
+
+    角色管理分配用户
+
+[33mcommit a489aed97a596c54dc45a59eef9b2e607687597d[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 15 14:25:48 2021 +0800
+
+    表格列头增加单位
+
+[33mcommit dfc0bcdefa1a7a1c256060389ff7b97d29408544[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Jan 15 10:43:42 2021 +0800
+
+    新增或者编辑重复数据时，提示该记录已存在
+
+[33mcommit 0964c4a810a0282cc943dc081e782804e7bb0fdb[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 14 16:52:13 2021 +0800
+
+    bug修改
+
+[33mcommit 957f1b16b61be9e06292b7479f29221813ef7fb8[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 14 14:37:17 2021 +0800
+
+    bug修改
+
+[33mcommit e9a7454ebb1eb77b106cb598c999dc8cfe421db9[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Jan 13 16:10:38 2021 +0800
+
+    message提示修改
+
+[33mcommit 9a6fe4ffa92223b5c52960c9e93699d27d7e4302[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Jan 13 14:20:40 2021 +0800
+
+    新增表单增加数字校验
+
+[33mcommit 44f73462f65675e8c308b424b54c92ceef5de3aa[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Jan 13 10:02:25 2021 +0800
+
+    项目优化
+
+[33mcommit 1fe94a9c60a3ef68877ee31cb1f354f217e04852[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 12 18:11:04 2021 +0800
+
+    字段调整
+
+[33mcommit 38b84cfb45d51f481363e11c4c77ea8e00f67fc5[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 12 14:58:24 2021 +0800
+
+    字段调整
+
+[33mcommit 3a742e71263a7f5b1e9b61803fec90d2cbf4906f[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 12 14:21:17 2021 +0800
+
+    icon 新增
+
+[33mcommit ee89fd81748897abbb0045019aa30ed18c50c189[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 12 14:14:45 2021 +0800
+
+    权限模块开发
+
+[33mcommit 6b782419c30d9bc8fd432d257bed543af69afe9f[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Jan 12 10:28:05 2021 +0800
+
+    权限模块开发
+
+[33mcommit 964658f38001e41b013c41046a645df228bd6ae0[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 11 19:06:17 2021 +0800
+
+    权限模块开发
+
+[33mcommit 465b2d8540950aa40995378aa35c04b7c4c08072[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Jan 11 19:05:21 2021 +0800
+
+    权限模块开发
+
+[33mcommit a2b0770cdd2ced1c099ebab7e87a5ae0c37a70e4[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 7 14:08:12 2021 +0800
+
+    字段调整
+
+[33mcommit af9d65e327dd42666c2b058124dfb45074c2ad16[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 7 11:33:09 2021 +0800
+
+    字段调整
+
+[33mcommit 5463376d920e26860261ea8051d0edf26e2c9e20[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Jan 7 10:32:57 2021 +0800
+
+    字段调整
+
+[33mcommit 48f4a4a8e5873a670da51a3cafba73100dbfd50c[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Dec 31 17:34:58 2020 +0800
+
+    新增页面增加单位
+
+[33mcommit 7e0d2dbe19d09c74c938470886bebc35e96020fc[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Dec 31 17:27:14 2020 +0800
+
+    气田模块新增页面
+
+[33mcommit a84fc9c9a059638fcd717377c367f7b6cff804e6[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Dec 30 17:55:08 2020 +0800
+
+    提示信息修改
+
+[33mcommit 7630df5fef884253ca0fbd76af8b97cdaf484d8c[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Dec 30 17:41:33 2020 +0800
+
+    管道信息页面调整
+
+[33mcommit 3aa710a7aab83fdb85e45038862b17f793415e10[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Dec 30 15:18:42 2020 +0800
+
+    修改新增，编辑页面菜单导航栏无选中样式问题
+
+[33mcommit bce5a31db302a4af5493d8ef3443c421fa93a86a[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Dec 30 14:00:19 2020 +0800
+
+    企业名称字典表调整，修改密码接口联调
+
+[33mcommit cb8ba98ab65182e1b65dea13040852334b56d7df[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Wed Dec 30 11:20:39 2020 +0800
+
+    修改密码
+
+[33mcommit f2a9579c229d2523e4594e85c2e75653173bae47[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 16:51:06 2020 +0800
+
+    下拉列表改为级联下拉
+
+[33mcommit e91523cb5909dbf609d6c9369b09e461e8207d2f[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 16:27:19 2020 +0800
+
+    下拉列表改为级联下拉
+
+[33mcommit e2529af9110936f2a27810b865becf66ddb97374[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 15:33:08 2020 +0800
+
+    下拉列表改为级联下拉
+
+[33mcommit 208e81cd2a8589ddc1a75f4468b8ac1486195f45[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 14:07:27 2020 +0800
+
+    下拉列表改为级联下拉
+
+[33mcommit 6ae0643d9d7c4dea9c64aa781d770391b10de64c[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 10:56:40 2020 +0800
+
+    气田去掉盟市
+
+[33mcommit f3245ffea7b84c3b4e4a2719924341a0c1395751[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Tue Dec 29 09:40:51 2020 +0800
+
+    接口联调
+
+[33mcommit 8059616c5166135dc7e92eb7945c9039cb69b2fd[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 20:20:48 2020 +0800
+
+    接口联调
+
+[33mcommit 05fc26dfd592a6fdcb7fa152fd4844de7fc3f432[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 18:52:39 2020 +0800
+
+    接口联调
+
+[33mcommit 616f2c46fcb76c04b0ebac20ae3a2132427d03ab[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 17:29:41 2020 +0800
+
+    接口联调
+
+[33mcommit 45129642c16e5ae28c647f5f8e332a02c8394391[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 16:01:02 2020 +0800
+
+    新增菜单
+
+[33mcommit 5f8bf97c0f1f09b6c289cc066ab3c0827f9773eb[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 15:32:34 2020 +0800
+
+    新增菜单
+
+[33mcommit f4bddf5fc4af97ed742d2b3a7f3311cd4c6eec7a[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 10:55:19 2020 +0800
+
+    字段调整
+
+[33mcommit ed369e68c9a3139d3762d6ff0190717b74d3c0c1[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Mon Dec 28 10:03:03 2020 +0800
+
+    单位调整
+
+[33mcommit 1a6400b517f2412aa0c3db47e0f75a2a357371e5[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Sat Dec 26 17:23:12 2020 +0800
+
+    接口联调
+
+[33mcommit 86965bdcf8c3bc40c8b31b4d758d95392be10c95[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Sat Dec 26 14:26:26 2020 +0800
+
+    接口联调
+
+[33mcommit d785cd1cead7a1822244f6f580f46bebb2584b13[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Sat Dec 26 13:20:21 2020 +0800
+
+    接口联调
+
+[33mcommit ea03f8a7d5b2fd0b01e2fa212bd0d9d56db61ba0[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Sat Dec 26 10:35:26 2020 +0800
+
+    接口联调
+
+[33mcommit 1fc782479d0e4f48051782cd36c21b48c917d8e5[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Fri Dec 25 16:47:35 2020 +0800
+
+    接口联调
+
+[33mcommit cbcfa6dab735cae9a8b6e76d88bb824789e99ef4[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Dec 24 18:26:51 2020 +0800
+
+    页面样式修改
+
+[33mcommit a5abd132058248c8636187f16be1578c8784849b[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Dec 24 18:24:15 2020 +0800
+
+    页面样式修改
+
+[33mcommit 44a32b72edac769c72203ef6bfb90c40e498be02[m
+Author: feifeijuanjuan <1301371048@qq.com>
+Date:   Thu Dec 24 13:48:00 2020 +0800
+
+    样式调整
